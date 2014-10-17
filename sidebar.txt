@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yet:home|Door43 (yet)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yet|d43-yet repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yet/archive/master.zip|d43-yet.zip]]
+
+**Recent Changes**
+{{changes>ns = yet}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yet|Ethnologue data]]
+
